@@ -1,0 +1,1 @@
+curl -L https://qcobjects.dev/install_qcobjects_ubuntu18x.sh |sh
